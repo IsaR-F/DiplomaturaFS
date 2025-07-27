@@ -1,5 +1,8 @@
 Pan
 
-verduras
-caramelos
-golosinas
+Verduras
+Caramelos
+
+Cereal
+Arroz
+Leche
