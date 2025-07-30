@@ -3,6 +3,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     background-color: yellow;
     text-align: center;
+    
 }
 
 
@@ -32,6 +33,7 @@ p{
      border: 2px solid black;
      padding: 20px;
      line-height: 1.5;
+     margin: 20px auto;
 }
 
 #azul {
@@ -41,4 +43,5 @@ p{
      border: 2px solid black;
      padding: 20px;
      line-height: 1.5;
+      margin: 20px auto;
 }
