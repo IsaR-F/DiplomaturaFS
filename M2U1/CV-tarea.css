@@ -9,7 +9,7 @@ height: 520px;
 /*background-color: yellow; */
 background: #22C1C3;
 background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
-margin: 0 auto; /* centraliza el cuadrito*/
+margin: 0 auto; /* centraliza la "caja" */
 padding: 10px;
 
 border-radius: 20px 20px;
